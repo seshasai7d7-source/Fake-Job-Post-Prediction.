@@ -1,0 +1,17 @@
+/.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.sqlite3
+*.db
+Thumbs.db
+.DS_Store
+
+# If you want to ignore model artifacts, uncomment these
+#*.pkl
+#*.pickle
+#*.joblib
